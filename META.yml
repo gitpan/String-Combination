@@ -1,0 +1,8 @@
+name:         String::Combination
+version:      0.01
+version_from: Combination.pm
+installdirs:  site
+requires:
+    Test
+
+distribution_type: module
